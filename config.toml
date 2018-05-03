@@ -1,4 +1,4 @@
-baseurl = "zhouxm.github.io/"
+baseurl = "https://zhouxm.github.io/zhouxm/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "blackburn"
