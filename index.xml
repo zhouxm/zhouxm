@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Your site title</title>
-    <link>https://zhouxm.github.io/</link>
+    <link>https://zhouxm.github.io/zhouxm/</link>
     <description>Recent content on Your site title</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2016. All rights reserved.</copyright>
     <lastBuildDate>Thu, 03 May 2018 21:22:21 +0800</lastBuildDate>
-    <atom:link href="https://zhouxm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zhouxm.github.io/zhouxm/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>first</title>
-      <link>https://zhouxm.github.io/post/first/</link>
+      <link>https://zhouxm.github.io/zhouxm/post/first/</link>
       <pubDate>Thu, 03 May 2018 21:22:21 +0800</pubDate>
       
-      <guid>https://zhouxm.github.io/post/first/</guid>
+      <guid>https://zhouxm.github.io/zhouxm/post/first/</guid>
       <description>
 
 &lt;h3 id=&#34;hello-hugo:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;hello hugo&lt;/h3&gt;
@@ -29,10 +29,10 @@
     
     <item>
       <title>about</title>
-      <link>https://zhouxm.github.io/about/</link>
+      <link>https://zhouxm.github.io/zhouxm/about/</link>
       <pubDate>Thu, 03 May 2018 21:21:31 +0800</pubDate>
       
-      <guid>https://zhouxm.github.io/about/</guid>
+      <guid>https://zhouxm.github.io/zhouxm/about/</guid>
       <description>&lt;p&gt;[[menu.main]]
   name = &amp;ldquo;About&amp;rdquo;
   pre = &amp;ldquo;&lt;i class=&#39;fa fa-user fa-fw&#39;&gt;&lt;/i&gt;&amp;ldquo;
