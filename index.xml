@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Your site title</title>
     <link>https://zhouxm.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Your site title</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2017. All rights reserved.</copyright>
+    <copyright>&amp;copy; 2016. All rights reserved.</copyright>
     <lastBuildDate>Thu, 03 May 2018 21:22:21 +0800</lastBuildDate>
     <atom:link href="https://zhouxm.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -34,7 +33,13 @@
       <pubDate>Thu, 03 May 2018 21:21:31 +0800</pubDate>
       
       <guid>https://zhouxm.github.io/about/</guid>
-      <description></description>
+      <description>&lt;p&gt;[[menu.main]]
+  name = &amp;ldquo;About&amp;rdquo;
+  pre = &amp;ldquo;&lt;i class=&#39;fa fa-user fa-fw&#39;&gt;&lt;/i&gt;&amp;ldquo;
+  weight = 2
+  identifier = &amp;ldquo;about&amp;rdquo;
+  url = &amp;ldquo;/about/&amp;rdquo;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
